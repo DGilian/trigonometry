@@ -1,0 +1,30 @@
+ html{
+  font-size: 62.5%;
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header{
+  height: 10rem;
+  background-color: rgb(27, 27, 36);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1{
+  font-size: 5rem;
+}
+body{
+  font-size: 2rem;
+}
+body form{
+  display: flex;
+  justify-content: space-around;
+}
