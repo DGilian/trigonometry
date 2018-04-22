@@ -10,7 +10,7 @@ class App extends Component {
 
   render() {
 
-    calcul()
+    let stock = calcul()
 
     const tab = ['A', 'B', 'C']
 
