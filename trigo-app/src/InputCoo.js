@@ -3,6 +3,10 @@ import React, { Component } from 'react';
 class InputCoo extends Component {
     constructor(props) {
         super(props);
+        this.state = {
+            x: 0,
+            y: 0
+        }
     }
 
     render() {
